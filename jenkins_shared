@@ -1,1 +1,1 @@
-sayHello()
+echo "sayHello"
